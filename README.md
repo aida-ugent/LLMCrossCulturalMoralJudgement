@@ -40,8 +40,8 @@ We test LLMs under **4 conditions** by varying story language and thinking langu
 ## 📁 Repository Structure
 
 ```
-open_source_data/
 ├── README.md                 # This file
+├── LICENSE                   # CC BY 4.0 license
 ├── prompts.py                # All prompt templates (code)
 ├── aita_posts.pkl/csv        # AITA stories (EN original + CN translation)
 ├── cmoral_posts.pkl/csv      # CMoral stories (CN original + EN translation)
