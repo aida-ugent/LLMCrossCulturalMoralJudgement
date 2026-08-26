@@ -1,4 +1,4 @@
-post_id,user_verdict,dimension,Claude,DeepSeek,Gemini,GPT-4o-mini,Qwen,mean,median,std,min,max,count,agreement
+post_id,user_verdict,dimension,Claude,DeepSeek,Gemini,o4-mini,Qwen,mean,median,std,min,max,count,agreement
 d1_1001,Y,Authority_Family,-1.0,-2.0,-2.0,-1.0,,-1.5,-1.5,0.5,-2.0,-1.0,4,0.6666666666666666
 d1_1001,Y,Authority_Society,-1.0,-2.0,-2.0,-1.0,,-1.5,-1.5,0.5,-2.0,-1.0,4,0.6666666666666666
 d1_1001,Y,Care_Harm,0.0,-1.0,-1.0,-1.0,,-0.75,-1.0,0.4330127018922193,-1.0,0.0,4,0.6978305207480379

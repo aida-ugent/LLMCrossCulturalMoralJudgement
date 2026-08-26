@@ -1,4 +1,4 @@
-post_id,user_verdict,dimension,Claude,DeepSeek,Gemini,GPT-4o-mini,Qwen,mean,median,std,min,max,count,agreement
+post_id,user_verdict,dimension,Claude,DeepSeek,Gemini,o4-mini,Qwen,mean,median,std,min,max,count,agreement
 101fvqg,Y,Authority_Family,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,0.7142857142857142
 101fvqg,Y,Authority_Society,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,0.7142857142857142
 101fvqg,Y,Care_Harm,2.0,2.0,1.0,2.0,2.0,1.8,2.0,0.4,1.0,2.0,5,0.7142857142857143
