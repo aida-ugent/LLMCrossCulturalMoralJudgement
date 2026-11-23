@@ -48,7 +48,8 @@ We test LLMs under **4 conditions** by varying story language and thinking langu
 ├── aita_mfq_en.pkl/csv       # MFQ ratings: AITA English stories
 ├── aita_mfq_cn.pkl/csv       # MFQ ratings: AITA Chinese translations
 ├── cmoral_mfq_en.pkl/csv     # MFQ ratings: CMoral English translations
-└── cmoral_mfq_cn.pkl/csv     # MFQ ratings: CMoral Chinese stories
+├── cmoral_mfq_cn.pkl/csv     # MFQ ratings: CMoral Chinese stories
+└── assets/erc-eu-logo.png    # Funder logo (README)
 ```
 
 ---
@@ -252,6 +253,14 @@ If you use this code or data, please cite our paper:
     publisher = "Association for Computational Linguistics",
 }
 ```
+
+---
+
+## 🙏 Acknowledgements
+
+<img src="assets/erc-eu-logo.png" alt="Funded by the European Union · European Research Council" width="360">
+
+Funded by the European Union (ERC, VIGILIA, 101142229). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. This work was also supported by the Special Research Fund (BOF) of Ghent University (BOF20/IBF/117), the Flemish Government under the "Onderzoeksprogramma Artificiële Intelligentie (AI) Vlaanderen" programme, and the FWO (project no. G0F9816N, 3G042220, G073924N).
 
 ---
 
